@@ -1,0 +1,43 @@
+嗨，大家好，
+
+以下是Twin-Delayed DDPG（TD3）模型研究論文的鏈接：
+
+https://arxiv.org/pdf/1802.09477.pdf
+
+一切都將在課程中解釋，所以你不必閱讀它，但你把它作為一個免費的資源是很好的。
+
+此外，現在您即將開始第1部分 - 基礎知識。如果您是AI新手，我建議首先檢查課程結尾處的附件部分，其中詳細介紹：
+
+深度學習（人工神經網絡）
+
+Q學習
+
+深度Q學習
+
+但是，如果您不是AI的新手，或者您參加過我們以前的AI課程，您可以直接從下一個講座開始。當然，如果您已經是AI專家並熟悉Q-Learning，深度Q-Learning，Policy Gradient和Actor Critic，您可以跳過第1部分並跳轉到第2部分。您感覺最舒服。
+
+無論如何，我期待在課程中見到你！
+
+=========
+
+Some resources before we start
+Hi guys,
+
+here is the link of the research paper of the Twin-Delayed DDPG (TD3) model:
+
+https://arxiv.org/pdf/1802.09477.pdf
+
+Everything will be explained in the course so you don't have to read it, but it's good that you have it as a complimentary resource.
+
+Also, now you are about to start Part 1 - Fundamentals. If you are new to AI, I recommend checking first the Annex Parts at the end of the course which cover in great details:
+
+Deep Learning (Artificial Neural Networks)
+
+Q-Learning
+
+Deep Q-Learning
+
+However if you are not new to AI or if you took our previous AI courses, you can directly start at the next Lecture. And of course if you already are an AI expert and are familiar with Q-Learning, Deep Q-Learning, Policy Gradient and Actor Critic, you can skip Part 1 and jump to Part 2. As you feel most comfortable.
+
+In any case, I look forward to seeing you inside the course!
+
